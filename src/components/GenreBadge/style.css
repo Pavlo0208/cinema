@@ -1,0 +1,9 @@
+.badge {
+    background-color: red;
+    margin: 0 10px;
+    justify-items: flex-end;
+    display: inline-flex;
+    border-radius: 8px;
+    width: 10%;
+    justify-content: center;
+}
